@@ -2,11 +2,6 @@
     "start_delay_sec": 5,
     "exit_hold_button_ms": 500,
     "time_fan_after_stop_sec": 10,
-    "screen_height": 1080,
-    "screen_width": 1920,
     "screen_default_HxW": "1080x1920",
-    "image_folder": "./",
-    "remote_call_sec": 3,
-    "prompt_questions_pre": true,
-    "prompt_questions_post": true
+    "image_folder": "./"
 }
