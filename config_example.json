@@ -1,0 +1,7 @@
+{
+    "start_delay_sec": 5,
+    "exit_hold_button_ms": 500,
+    "time_fan_after_stop_sec": 10,
+    "screen_default_HxW": "600x800",
+    "image_folder": "./"
+}
